@@ -1,1 +1,1 @@
-# DSA_Mini_Project_3rd_Semester
+# DSA_Mini_Project
